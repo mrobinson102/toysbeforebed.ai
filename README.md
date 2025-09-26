@@ -46,3 +46,10 @@ This repository is part of my public GitHub portfolio: [github.com/MGRobinson](h
 ---
 
 ## Repository Structure (planned)
+
+/.github/workflows   -> GitHub Actions CI/CD  
+/tests/playwright    -> Playwright test suite  
+/automation          -> RPA scripts (UiPath/Power Automate)  
+/ai                  -> AI/NLP models and recommender logic  
+/docs                -> Documentation, architecture diagrams  
+
